@@ -10,10 +10,12 @@ The goal is to provide the customer with a high standard webpage that people wit
 
 As someone who has relatives with disabilities, and with many disabled people all over the world, providing the client with high standard website and making it acessible is imperative.
 
-The challenge is to refactor the existing website to make it morte accessible.
+The challenge is to refactor the existing website to make it more accessible.
+
+Solved the links functinality issue and the "alt" atribute was added to the code to make images more descriptive.
 
 
 
 ## Credits
 
-Bootcamp - as this code was a "starter code" which is modified. 
+Bootcampspot - as this code was a "starter code" which is modified. 
