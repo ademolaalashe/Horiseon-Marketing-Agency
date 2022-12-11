@@ -20,3 +20,7 @@ Solved the links functinality issue and the "alt" atribute was added to the code
 ## Credits
 
 Bootcampspot - as this code was a "starter code" which is modified. 
+
+Links:
+https://github.com/ademolaalashe/Horiseon-Marketing-Agency
+https://ademolaalashe.github.io/Horiseon-Marketing-Agency/
