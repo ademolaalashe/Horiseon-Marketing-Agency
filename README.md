@@ -21,6 +21,8 @@ Solved the links functinality issue and the "alt" atribute was added to the code
 
 Bootcampspot - as this code was a "starter code" which is modified. 
 
+! [ScreenShot](https://{https://ademolaalashe.github.io/Horiseon-Marketing-Agency/})
+
 Links:
 https://github.com/ademolaalashe/Horiseon-Marketing-Agency
 https://ademolaalashe.github.io/Horiseon-Marketing-Agency/
